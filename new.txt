@@ -10,3 +10,4 @@
        valid_lft forever preferred_lft forever
     inet6 fe80::42:c0ff:fea8:2807/64 scope link 
        valid_lft forever preferred_lft forever
+我要多写写
